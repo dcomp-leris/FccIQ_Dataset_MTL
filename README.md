@@ -60,7 +60,6 @@ Comparison of models by accuracy, loss, training time, inference time, and size
 - numpy
 -  pandas
 -  torch
--  torch_geometric
 -  scikit-learn
 -  matplotlib
 -  seaborn
