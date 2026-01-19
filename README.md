@@ -81,3 +81,8 @@ Comparison of models by accuracy, loss, training time, inference time, and size
 
 # Contact
 For questions or collaboration:
+
+Email: mina.kaviani@estudante.ufscar.br
+
+Alternative: mina.kaviani22@gmail.com
+
