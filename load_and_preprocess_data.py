@@ -35,7 +35,7 @@ DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # -----------------------------
 # Config
 # -----------------------------
-BASEPATH = "unified_best_model_1_whitout shuffle_scalecsv_Final_again"
+BASEPATH = "Results"
 os.makedirs(BASEPATH, exist_ok=True)
 os.makedirs(f"{BASEPATH}/loss_curves", exist_ok=True)
 os.makedirs(f"{BASEPATH}/test_curves", exist_ok=True)
@@ -267,7 +267,7 @@ for file in csv_files:
 
     # Skip if no training data
     if len(df_train) == 0:
-        print(f"⚠️  Skipping {dataset_name} - no training data")
+        print(f" Skipping {dataset_name} - no training data")
         continue
 
     # -----------------------------
