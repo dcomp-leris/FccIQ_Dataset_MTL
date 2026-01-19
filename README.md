@@ -69,7 +69,7 @@ Comparison of models by accuracy, loss, training time, inference time, and size
 # Project Structure
 | File / Folder           | Description                                                      |
 | -----------------------          | ---------------------------------------------------------------- |
-| `models.py`             | Multi-task model definitions (GCN, MMoE, Cross-Stitch, etc.) |
+   | `models.py`             | Models architecture |
 | `main_training_loop_(train_all_models).py`                  | Training, validation, evaluation functions, Main script to train all models and evaluate performance                  |
 | `Load and Preprocess Data.ipynb`             | Load, clean, scale, prepare datasets, Metrics calculation, plotting, helper functions                  |
 | `dataset/`              | CSV files             |
