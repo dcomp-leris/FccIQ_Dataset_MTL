@@ -71,9 +71,7 @@ FEATURES = ['RSRP', 'RSRQ', 'SINR']
 REG_TARGETS = ['RSRP', 'RSRQ', 'SINR']
 CLS_TARGET = 'lab_inf'
 
-# Choose your best model here
-# Option 1: Train a single model
-# BEST_MODEL_NAME = 'mmoe'
+
 
 # Option 2: Train all models (one best model per architecture)
 MODELS_TO_TRAIN = ['mmoe', 'hardsharing', 'stl', 'crossstitch', 'ple', 'attention']
