@@ -73,7 +73,7 @@ Comparison of models by accuracy, loss, training time, inference time, and size
 | `main_training_loop_(train_all_models).py`                  | Training, validation, evaluation functions, Main script to train all models and evaluate performance                  |
 | `Load and Preprocess Data.ipynb`             | Load, clean, scale, prepare datasets, Metrics calculation, plotting, helper functions                  |
 | `dataset/`              | CSV files             |
-| `README.md`             | Project documentation                                            |
+| `README.md`             | Project documentation and instructions.                                            |
 # Results
 <img width="595" height="363" alt="Screenshot from 2026-01-19 10-04-01" src="https://github.com/user-attachments/assets/c65cf065-0bb1-40c3-991b-6b1769267fca" />
 
