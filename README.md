@@ -52,6 +52,15 @@ All architectures are fully compatible with the same preprocessing pipeline and 
   - [x] Model size
 
 
+We also defined the network architecture and training hyperparameters for the models, which are presented in the following: 
+<img width="786" height="330" alt="Screenshot from 2026-03-28 14-01-07" src="https://github.com/user-attachments/assets/6a06fe9a-35e4-4a56-943c-c8df5068a3e3" />
+<img width="782" height="360" alt="Screenshot from 2026-03-28 14-01-48" src="https://github.com/user-attachments/assets/a7e6eaa7-f5fb-4ef7-ac8e-21ed3805ae39" />
+<img width="789" height="337" alt="Screenshot from 2026-03-28 14-02-25" src="https://github.com/user-attachments/assets/8f0edf66-86ab-45ce-a5fa-3abdf145a055" />
+<img width="769" height="301" alt="Screenshot from 2026-03-28 14-03-05" src="https://github.com/user-attachments/assets/e0af3ca7-f3e4-41d2-8fd6-6fda146c065f" />
+<img width="780" height="333" alt="Screenshot from 2026-03-28 14-03-42" src="https://github.com/user-attachments/assets/4d57a0f4-3148-480f-8138-636195c15516" />
+<img width="777" height="340" alt="Screenshot from 2026-03-28 14-04-25" src="https://github.com/user-attachments/assets/4ee124ae-b6df-4d23-b2a5-a46a92c74948" />
+
+
 # Outputs
 regression_out & cls_out predictions (saved + visualized)
 
