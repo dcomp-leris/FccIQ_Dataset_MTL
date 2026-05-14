@@ -146,8 +146,8 @@ def create_windows(df, n_steps):
         # Regression target: predict at time step i+n_steps
         y_reg = df[REG_TARGETS].iloc[i+n_steps].values
 
-        # Classification target: predict at time step i+n_steps-1
-        y_cls = df[CLS_TARGET].iloc[i+n_steps-1]
+        # Classification target: predict at time step i+n_steps
+        y_cls = df[CLS_TARGET].iloc[i+n_steps]
 
         X_windows.append(X_win)
         y_reg_windows.append(y_reg)
